@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Shift_JIS"  standalone="yes" ?> <!-- XML宣言 -->
+<?xml-stylesheet type="text/xsl" href="xml_lesson2-1.xml" ?> <!-- XSLTとの紐付け -->
+<!-- 書籍一冊分の情報 -->
+    <books title="Web関連書籍一覧">
+        <owner address="test123@gmail.com">Taro.Yamada</owner>
+        <book isbn="ISBN4-7980-0137-6">
+                <name>今日から使えるASP3.0サンプル集</name>
+                <author>Erika.Kobayashi</author>
+                <category>ASP</category>
+                <url>http://member.nifty.ne.jp/T-Yamada/asp3/
+                </url>
+                <price>2800</price>
+                <publish>昭和システム</publish>
+                <pDate>2003-08-05</pDate>
+        </book>
+        <book isbn="ISBN4-7980-0095-7">
+            <name>今日から使えるXMLサンプル集</name>
+            <author>Erika.Kobayashi</author>
+            <category>XML</category>
+            <url>http://member.nifty.ne.jp/T-Yamada/xml/
+            </url>
+            <price>2800</price>
+            <publish>昭和システム</publish>
+            <pDate>2003-12-04</pDate>
+        </book>
+        <book isbn="ISBN4-7973-1400-1">
+            <name>標準ASPテクニカルリファレンス</name>
+            <author>Erika.Kobayashi</author>
+            <category>ASP</category>
+            <price>4000</price>
+            <publish>ハードバンク</publish>
+            <pDate>2003-10-27</pDate>
+        </book>
+        <book isbn="ISBN4-87966-936-9">
+            <name>Webアプリケーション構築技法</name>
+            <author>Erika.Kobayashi</author>
+            <category>ASP</category>
+            <url>http://member.nifty.ne.jp/T-Yamada/webware/
+            </url>
+            <price>3200</price>
+            <publish>テスト社</publish>
+            <pDate>2004-02-27</pDate>
+        </book>
+    </books>
