@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Shift_JIS"  standalone="yes" ?>
+
+    <books>
+        <book isbn="ISBN4-7980-0137-6">
+                <name>今日から使えるASP3.0サンプル集</name>
+                <author>Erika.Kobayashi</author>
+                <category>ASP</category>
+                <price>2800</price>
+                <publish>昭和システム</publish>
+                <pDate>2003-08-05</pDate>
+        </book>
+        <book isbn="ISBN4-7980-0095-7">
+            <name>今日から使えるXMLサンプル集</name>
+            <author>Erika.Kobayashi</author>
+            <category>XML</category>
+            <price>2800</price>
+            <publish>昭和システム</publish>
+            <pDate>2003-12-04</pDate>
+        </book>
+    </books>
