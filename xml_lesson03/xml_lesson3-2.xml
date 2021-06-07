@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="Shift_JIS"  standalone="yes" ?> <!-- XML宣言 -->
+<?xml-stylesheet type="text/xsl" href="xml_lesson3-1.xsl" ?> <!-- XSLTとの紐付け -->
+<!-- 書籍一冊分の情報 -->
+    <books title="Web関連書籍一覧">
+        <owner address="test123@gmail.com">Taro.Yamada</owner>
+        <book isbn="ISBN4-7980-0137-6">
+                <name>今日から使えるASP3.0サンプル集</name>
+                <author>Erika.Kobayashi</author>
+                <logo>asp3.jpg</logo>
+                <category>ASP</category>
+                <url>http://member.nifty.ne.jp/T-Yamada/asp3/
+                </url>
+                <price>2800</price>
+                <publish>昭和システム</publish>
+                <pDate>2003-08-05</pDate>
+                <memo>
+                    Windows2.0/NT4.0/98/95 で使えるサーバサイド技術 
+                    <keyword>ActiveServerPages</keyword> 3.0。
+                    潤沢に用意された追加コンポネートやAccess、SQL、Serverに代表される
+                    データベースとの連携により、強力なWebアプリケーションの構築を可能とします。
+                </memo>
+        </book>
+        <book isbn="ISBN4-7980-0095-7">
+            <name>今日から使えるXMLサンプル集</name>
+            <author>Erika.Kobayashi</author>
+            <logo>xml.jpg</logo>
+            <category>XML</category>
+            <url>http://member.nifty.ne.jp/T-Yamada/xml/
+            </url>
+            <price>2800</price>
+            <publish>昭和システム</publish>
+            <pDate>2003-12-04</pDate>
+            <memo>
+                <keyword>XML、XSLT、DOM、XML、Schema</keyword> など、XMLに関する最新情報を実用サンプル、
+                実システムでの活用事例を交え、お届けします。
+                最新ｗ３ｃ標準仕様を徹底網羅した詳細リファレンス、最新事情を語るコラムも必見。
+            </memo>
+        </book>
+        <book isbn="ISBN4-7973-1400-1">
+            <name>標準ASPテクニカルリファレンス</name>
+            <author>Erika.Kobayashi</author>
+            <logo />
+            <category>ASP</category>
+            <price>4000</price>
+            <publish>ハードバンク</publish>
+            <pDate>2003-10-27</pDate>
+            <memo>
+                最新OS<ketword>Windows2000+ITS5.0</ketword> に対応し、Windows環境における
+                Webアプリケーションの極限を追求。
+                バージョン3.0に進化し、ますます強力なASPを詳細なリファレンスをベースに、サンプル集顔負けの123サンプルとともに。
+            </memo>
+        </book>
+        <book isbn="ISBN4-87966-936-9">
+            <name>Webアプリケーション構築技法</name>
+            <author>Erika.Kobayashi</author>
+            <logo>webware.jpg</logo>
+            <category>ASP</category>
+            <url>http://member.nifty.ne.jp/T-Yamada/webware/
+            </url>
+            <price>3200</price>
+            <publish>テスト社</publish>
+            <pDate>2004-02-27</pDate>
+            <memo>
+                IE5x+ITS4/5 で動作するWebベースのグループウェアを
+                <ref addr="http://member.nifty.ne.jp/T-Yamada/wedware/bl.html"> 無償ダウンロード提供中</ref> 
+                スケジュール管理、施設予約、ファイル共有、メール送受信、電子会議室、検索エンジン、不在ボードなど
+                豊富な機能が簡単な設定だけで動作します。
+            </memo>
+        </book>
+    </books>
